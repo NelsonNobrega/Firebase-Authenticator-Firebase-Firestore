@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "1047609071453",
+    "project_id": "autenticador-1c2ae",
+    "storage_bucket": "autenticador-1c2ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047609071453:android:d1998ac61d1ff2ea72bab4",
+        "android_client_info": {
+          "package_name": "com.example.autenticador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047609071453-tmb0jlsbfs81c8jr1j5oc986dchukcv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autenticador",
+            "certificate_hash": "de080dd787e4956b29eb3000ec42d0d283b9ce1d"
+          }
+        },
+        {
+          "client_id": "1047609071453-l8lgm1ff18ikn5d2g96473l65vfkq8ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFyyB941P1hjgY6_yf2csb-sv-dDuJoQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047609071453-l8lgm1ff18ikn5d2g96473l65vfkq8ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047609071453:android:44722a1f29a0834f72bab4",
+        "android_client_info": {
+          "package_name": "com.example.integrado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047609071453-l8lgm1ff18ikn5d2g96473l65vfkq8ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFyyB941P1hjgY6_yf2csb-sv-dDuJoQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047609071453-l8lgm1ff18ikn5d2g96473l65vfkq8ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047609071453:android:b5e058e78b0f9d9572bab4",
+        "android_client_info": {
+          "package_name": "com.example.quarta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047609071453-34e3v6e67o0se3bkmjaa1kjo19acdea0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quarta",
+            "certificate_hash": "e16f487db70657e4132964858154a166d50ebc8c"
+          }
+        },
+        {
+          "client_id": "1047609071453-bd3dc5694nooau6u54ss9f9kbrtjackj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quarta",
+            "certificate_hash": "de080dd787e4956b29eb3000ec42d0d283b9ce1d"
+          }
+        },
+        {
+          "client_id": "1047609071453-l8lgm1ff18ikn5d2g96473l65vfkq8ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFyyB941P1hjgY6_yf2csb-sv-dDuJoQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047609071453-l8lgm1ff18ikn5d2g96473l65vfkq8ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047609071453:android:080d224cf11363c372bab4",
+        "android_client_info": {
+          "package_name": "com.example.quartaautenticacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047609071453-4icsit8bubrtame8qtlk3d0ekdhmhsol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quartaautenticacao",
+            "certificate_hash": "de080dd787e4956b29eb3000ec42d0d283b9ce1d"
+          }
+        },
+        {
+          "client_id": "1047609071453-l8lgm1ff18ikn5d2g96473l65vfkq8ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFyyB941P1hjgY6_yf2csb-sv-dDuJoQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047609071453-l8lgm1ff18ikn5d2g96473l65vfkq8ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

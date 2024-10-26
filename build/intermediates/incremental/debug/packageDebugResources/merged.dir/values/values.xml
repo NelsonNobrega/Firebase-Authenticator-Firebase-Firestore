@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Integrado</string>
+    <string name="default_web_client_id" translatable="false">1047609071453-l8lgm1ff18ikn5d2g96473l65vfkq8ij.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1047609071453</string>
+    <string name="google_api_key" translatable="false">AIzaSyBFyyB941P1hjgY6_yf2csb-sv-dDuJoQE</string>
+    <string name="google_app_id" translatable="false">1:1047609071453:android:44722a1f29a0834f72bab4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBFyyB941P1hjgY6_yf2csb-sv-dDuJoQE</string>
+    <string name="google_storage_bucket" translatable="false">autenticador-1c2ae.appspot.com</string>
+    <string name="project_id" translatable="false">autenticador-1c2ae</string>
+    <style name="Theme.Integrado" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
